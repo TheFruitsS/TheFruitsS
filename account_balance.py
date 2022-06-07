@@ -15,4 +15,3 @@ while True:
     print(f'Increase: {float(current_sum):.2f}')
 
 print(f'Total: {balance:.2f}')
-
