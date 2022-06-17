@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="mport Turtle3D&#10;nBasic&#10;import math&#10;&#10;n = Turtle3D.Turtle()&#10;n.color('silver">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/abs_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/calculations_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/greet_username.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/print_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/recursion_can_replace_the_cycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/two_inputs-Greet.py" afterDir="false" />
+    <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/calculations_second_variant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/calendar_kivy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/kivy_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/lambda_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/zad7_rounding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/map_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/map_func.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="25pXE6BhNKl50nYIV2oX6c7fEJM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,7 +95,7 @@
       <recent name="$PROJECT_DIR$/preparation_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculations_basic">
+  <component name="RunManager" selected="Python.timer">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculations_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calendar_kivy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/calculations_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/calendar_kivy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -136,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greet_username" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kivy_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/greet_username.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/kivy_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -157,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/print_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -178,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion_can_replace_the_cycles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="timer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/recursion_can_replace_the_cycles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/timer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -199,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_inputs-Greet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad7_rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +213,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/two_inputs-Greet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/zad7_rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -221,19 +223,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.calculations_basic" />
-      <item itemvalue="Python.greet_username" />
-      <item itemvalue="Python.print_function" />
-      <item itemvalue="Python.recursion_can_replace_the_cycles" />
-      <item itemvalue="Python.two_inputs-Greet" />
+      <item itemvalue="Python.timer" />
+      <item itemvalue="Python.calendar_kivy" />
+      <item itemvalue="Python.kivy_test" />
+      <item itemvalue="Python.orders" />
+      <item itemvalue="Python.zad7_rounding" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculations_basic" />
-        <item itemvalue="Python.greet_username" />
-        <item itemvalue="Python.two_inputs-Greet" />
-        <item itemvalue="Python.recursion_can_replace_the_cycles" />
-        <item itemvalue="Python.print_function" />
+        <item itemvalue="Python.timer" />
+        <item itemvalue="Python.calendar_kivy" />
+        <item itemvalue="Python.kivy_test" />
+        <item itemvalue="Python.zad7_rounding" />
+        <item itemvalue="Python.orders" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654959838035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="continue with Fundamentals_tasks">
+      <created>1655149650026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655149650027</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://hub.jetbrains.com/users/cdf28429-fa2b-4824-be11-043e83e47f42">
@@ -332,7 +341,8 @@
     <MESSAGE value="updated head" />
     <MESSAGE value="PythonTasks" />
     <MESSAGE value="mport Turtle3D&#10;nBasic&#10;import math&#10;&#10;n = Turtle3D.Turtle()&#10;n.color('silver" />
-    <option name="LAST_COMMIT_MESSAGE" value="mport Turtle3D&#10;nBasic&#10;import math&#10;&#10;n = Turtle3D.Turtle()&#10;n.color('silver" />
+    <MESSAGE value="continue with Fundamentals_tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue with Fundamentals_tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
