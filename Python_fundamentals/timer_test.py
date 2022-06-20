@@ -1,7 +1,7 @@
 import logging
 import time
 
-from timer import timer, get_timer
+from timer_test import timer, get_timer
 
 # default timer's logging level is logging.DEBUG
 # so timer would print nothing if logging level is logging.INFO or higher

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/rabota_abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/alphabet+10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_fundamentals/alphabet+10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/alphabet+10.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="timer_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/timer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/timer_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -219,8 +218,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.alphabet+10" />
+      <item itemvalue="Python.timer_test" />
       <item itemvalue="Python.calculations_second_variant" />
-      <item itemvalue="Python.timer" />
       <item itemvalue="Python.calendar_kivy" />
       <item itemvalue="Python.kivy_test" />
     </list>
@@ -228,7 +227,7 @@
       <list>
         <item itemvalue="Python.alphabet+10" />
         <item itemvalue="Python.calculations_second_variant" />
-        <item itemvalue="Python.timer" />
+        <item itemvalue="Python.timer_test" />
         <item itemvalue="Python.calendar_kivy" />
         <item itemvalue="Python.kivy_test" />
       </list>
@@ -296,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655495105247</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="continue with Fundamentals_tasks">
+      <created>1655728295128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655728295128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://hub.jetbrains.com/users/cdf28429-fa2b-4824-be11-043e83e47f42">
