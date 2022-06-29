@@ -2,16 +2,16 @@ def shoot_func(index, power, targets):
     if 0 <= index < len(targets):
         if targets[index] - power <= 0:
             targets.pop(index)
-    else:
-        targets[index] -= power
+        else:
+            targets[index] -= power
     return targets
 
 def add_func(index, value, targets):
-    if 0 >= index < len(targets):
+    if 0 <= index < len(targets):
         targets.insert(index, value)
 
     else:
-        print("Invalid Placement")
+        print("Invalid placement!")
 
     return targets
 
@@ -32,7 +32,6 @@ def moving_targets(targets):
 
         if command == 'End':
             print('|'.join([str(num) for num in targets]))
-
             break
         command = command.split(' ')
         current_command = command[0]
