@@ -17,5 +17,5 @@ while True:
             energy += won_battle_counter
 
     else:
-        print(f'Not enough energy! Game ends with {won_battle_counter} battles and {energy} energy')
+        print(f'Not enough energy! Game ends with {won_battle_counter} won battles and {energy} energy')
         break

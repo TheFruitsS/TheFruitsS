@@ -1,6 +1,6 @@
 my_list = [1, 2, 3, 4, 5, 2, 2, 8, "tralala", 9, 10]
 
-print(my_list)
+#print(my_list)
 # my_list.sort(reverse=True)
 # print(my_list)
 
@@ -28,11 +28,11 @@ print(my_list)
 
 # print(my_list)
 # # my_list.reverse()
-# print(my_list[::-1])
-# print(my_list)
+print(my_list[::-1])
+#print(my_list)
 # #
 # del my_list[3]
 # print(my_list)
 
-my_list.append("Gosho")
-print(my_list)
+#my_list.append("Gosho")
+#print(my_list)
