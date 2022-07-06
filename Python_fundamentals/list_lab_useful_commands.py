@@ -1,8 +1,11 @@
 my_list = [1, 2, 3, 4, 5, 2, 2, 8, "Excellent", 9, 10,5]
 
 #print(my_list)
-# my_list.sort(reverse=True)
-# print(my_list)
+my_list.sort(reverse=True)
+print(my_list)
+#sort create changes permanently but sorted create changes temporary
+#my_list.sorted(reverse=True)
+#print(my_list)
 
 # print(my_list.pop())
 # print(my_list)
@@ -22,8 +25,8 @@ my_list = [1, 2, 3, 4, 5, 2, 2, 8, "Excellent", 9, 10,5]
 # my_list.remove(5)
 # print(my_list)
 
-number = my_list.index("Excellent")
-print(number)
+#number = my_list.index("Excellent")
+#print(number)
 #help you find the index of data you're looking for in the list
 #repetition = my_list.count(5)
 #print(repetition)
@@ -35,8 +38,8 @@ print(number)
 #print(my_list[::-1])
 #print(my_list)
 # #
-del my_list[3]
-print(my_list)
+#del my_list[3]
+#print(my_list)
 #del deletes the number from the array
 #my_list.append("Bravo")
 #print(my_list)
