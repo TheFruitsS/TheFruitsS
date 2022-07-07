@@ -1,8 +1,8 @@
-my_list = [1, 2, 3, 4, 5, 2, 2, 8, "Excellent", 9, 10,5]
+my_list = [1, 6, 3,7, 4, 5, 2, 2, 8, "Excellent", 9, 10,5,"Amazing"]
 
 #print(my_list)
-my_list.sort(reverse=True)
-print(my_list)
+#my_list.sort(reverse=True)
+#print(my_list)
 #sort create changes permanently but sorted create changes temporary
 #my_list.sorted(reverse=True)
 #print(my_list)
@@ -43,3 +43,7 @@ print(my_list)
 #del deletes the number from the array
 #my_list.append("Bravo")
 #print(my_list)
+
+unique_numbers = list(set(my_list))
+print(unique_numbers)
+#showing unique number without repetition

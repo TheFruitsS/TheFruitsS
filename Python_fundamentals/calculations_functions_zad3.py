@@ -6,7 +6,8 @@ def calculation_func(number_a, number_b, operation):
     elif operation == 'add':
         return number_a + number_b
     elif operation == 'subtract':
-        return number_a / number_b
+        return number_a - number_b
+
 type_of_operation = input()
 first_numbers = int(input())
 second_numbers = int(input())
