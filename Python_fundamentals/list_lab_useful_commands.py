@@ -4,8 +4,8 @@ my_list = [1, 6, 3,7, 4, 5, 2, 2, 8, "Excellent", 9, 10,5,"Amazing"]
 #my_list.sort(reverse=True)
 #print(my_list)
 #sort create changes permanently but sorted create changes temporary
-#my_list.sorted(reverse=True)
-#print(my_list)
+my_list.sorted(reverse=True)
+print(my_list)
 
 # print(my_list.pop())
 # print(my_list)
@@ -44,6 +44,12 @@ my_list = [1, 6, 3,7, 4, 5, 2, 2, 8, "Excellent", 9, 10,5,"Amazing"]
 #my_list.append("Bravo")
 #print(my_list)
 
-unique_numbers = list(set(my_list))
-print(unique_numbers)
+#unique_numbers = list(set(my_list))
+#print(unique_numbers)
 #showing unique number without repetition
+
+#myTuple = ("John", "Peter", "Vicky")
+
+#x = ' '.join(myTuple)
+
+#print(x)
