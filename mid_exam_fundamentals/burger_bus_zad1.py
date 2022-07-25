@@ -1,17 +1,25 @@
-number_of_cities = int(input())
-name_of_city = (input())
-earned_money = float(input())
-owner_expenses = float(input())
-total_profit = 0
-number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+counts_city = int(input())
+town_of_visit = ''
+income = 0
+expenses = 0
+profit = 0
+total = 0
+my_list = ([])
+for city in range(1, counts_city + 1):
 
-for number in range(number_of_cities):
-    print(f"In {name_of_city} Burger Bus earned {total_profit} leva.")
-    earned_money += earned_money - owner_expenses
-    if number_of_cities == 3:
-        owner_expenses += owner_expenses * 0.5
-        print(f"In {name_of_city} Burger Bus earned {total_profit} leva.")
-    if number_of_cities == 5:
-        earned_money -= earned_money * 0.1
+    town_of_visit = input()
+    income = float(input())
+    expenses = float(input())
+    profit = income - expenses
 
-print(f"In {name_of_city} Burger Bus earned {total_profit} leva.")
+    if city % 3 == 0:
+        profit = income - expenses * 1.5
+
+    if city % 5 == 0:
+        profit = income * 0.9 - expenses
+
+    total += profit
+    my_list.append(f"In {town_of_visit} Burger Bus earned {profit:.2f} leva.")
+#printing every number from the list on new line
+print(*my_list,sep="\n")
+print(f"Burger Bus total profit: {total:.2f} leva.")
