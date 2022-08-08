@@ -8,10 +8,10 @@ def burger_bus(counts_city):
         expenses = float(input())
         profit = income - expenses
 
-        if city % 3 == 0 :
+        if city % 3 == 0:
             profit = income - expenses * 1.5
 
-        if city % 5 == 0 :
+        if city % 5 == 0:
             profit = income * 0.9 - expenses
 
         total += profit

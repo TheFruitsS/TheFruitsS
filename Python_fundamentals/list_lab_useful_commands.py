@@ -1,4 +1,4 @@
-#my_list = [1, 6, 3,7, 4, 5, 2, 2, 8, "Excellent", 9, 10,5,"Amazing"]
+my_list = [1, 6, 3,7, 4, 5, 2, 2, 8, "Excellent", 9, 10,5,"Amazing"]
 
 #print(my_list)
 #my_list.sort(reverse=True)
@@ -14,8 +14,9 @@
 #shows the number of the list and after that delete it
 # print(my_list)
 #
-#my_list.insert(0, "My")
-#print(my_list)
+#my_list.insert(-1,"My")
+
+print(my_list)
 #print(my_list.remove("Excellent"))
 #removes the specific keyword
 #print(my_list.pop(8))
@@ -48,8 +49,8 @@
 #print(unique_numbers)
 #showing unique number without repetition
 
-myTuple = ("John", "Peter", "Vicky")
+#myTuple = ("John", "Peter", "Vicky")
 
-x = ' '.join(myTuple)
+#x = ' '.join(myTuple)
 
-print(x)
+#print(x)

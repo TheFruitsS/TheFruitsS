@@ -1,2 +1,4 @@
-data = list(map(int, input().split(' ')))
-print(data)
+
+numbers = [1, 2, 3]
+numbers = list(map(int, numbers))
+print(numbers)

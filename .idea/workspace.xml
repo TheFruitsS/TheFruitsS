@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Factorial_Division_zad12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Loading_function_zad11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Perfectnumberzad10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/seasons_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/statement_test_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.01. Burger Bus_Вход.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_test_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/replacing_list_of_all_found_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.02. Numbers_Вход.docx#" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/abs_append.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/abs_append.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/repeat_string_functions_zad4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/repeat_string_functions_zad4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.01. Burger Bus_Вход.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_function_zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_function_zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +59,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.1/python_stubs/-1122881879/builtins.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-1122881879/builtins.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/Definition_list_and_tuple.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/defimition_sets_and_dictionary.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/larger_number.py" root0="SKIP_INSPECTION" />
@@ -90,7 +87,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/Downloads/VioletaProjects/Python_fundamentals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -103,28 +100,7 @@
       <recent name="$PROJECT_DIR$/preparation_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.burger_bus_zad1">
-    <configuration name="Even_Numbers_functions_zad5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/Even_Numbers_functions_zad5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.numbers-zad2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="abs_append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="greet_username" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/abs_append.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/greet_username.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -167,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="burger_bus_zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_lab_useful_commands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_zad1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -188,7 +164,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grades_functions_zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers-zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" />
+      <option name="PARAMETERS" value="$ClipboardContent$" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quantity_boxes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/grades_functions_zad2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quantity_boxes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -231,19 +228,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.greet_username" />
+      <item itemvalue="Python.list_lab_useful_commands" />
+      <item itemvalue="Python.quantity_boxes" />
+      <item itemvalue="Python.numbers-zad2" />
       <item itemvalue="Python.tests" />
-      <item itemvalue="Python.Even_Numbers_functions_zad5" />
-      <item itemvalue="Python.abs_append" />
-      <item itemvalue="Python.grades_functions_zad2" />
-      <item itemvalue="Python.burger_bus_zad1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.burger_bus_zad1" />
+        <item itemvalue="Python.numbers-zad2" />
         <item itemvalue="Python.tests" />
-        <item itemvalue="Python.abs_append" />
-        <item itemvalue="Python.grades_functions_zad2" />
-        <item itemvalue="Python.Even_Numbers_functions_zad5" />
+        <item itemvalue="Python.quantity_boxes" />
+        <item itemvalue="Python.list_lab_useful_commands" />
+        <item itemvalue="Python.greet_username" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658755142695</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="continue with Fundamentals_tasks">
+      <created>1658756024758</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1658756024758</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://hub.jetbrains.com/users/cdf28429-fa2b-4824-be11-043e83e47f42">
@@ -568,6 +572,11 @@
           <url>file://$PROJECT_DIR$/Python_fundamentals/Palindrome_list_advanced_zad4.py</url>
           <line>16</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
