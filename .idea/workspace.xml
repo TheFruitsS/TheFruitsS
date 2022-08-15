@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/replacing_list_of_all_found_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.02. Numbers_Вход.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/class_with_instances_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/classes_comment_zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/decorator~_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/email_zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/instances_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/party_zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/zoo_zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/angry_cat_zad3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.01. Burger Bus_Вход.docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_function_zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/burger_bus_function_zad1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.03. The Angry Cat_Вход.docx#" beforeDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,15 +83,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/Downloads/VioletaProjects/Python_fundamentals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "/home/dimitarvili/Downloads/VioletaProjects/Python_fundamentals",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/samples" />
@@ -100,7 +103,7 @@
       <recent name="$PROJECT_DIR$/preparation_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.numbers-zad2">
+  <component name="RunManager" selected="Python.class_with_instances_example">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greet_username" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class_with_instances_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/greet_username.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/class_with_instances_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -143,28 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_lab_useful_commands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/list_lab_useful_commands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numbers-zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classes_comment_zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,8 +158,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py" />
-      <option name="PARAMETERS" value="$ClipboardContent$" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/classes_comment_zad1.py" />
+      <option name="PARAMETERS" value="$AffectedModuleNames$$ClipboardContent$$AffectedModuleNames$" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
@@ -185,19 +167,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quantity_boxes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="comentar_zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quantity_boxes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/comentar_zad1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -206,19 +188,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="email_zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/email_zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zoo_zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/zoo_zad4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -228,19 +231,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.greet_username" />
-      <item itemvalue="Python.list_lab_useful_commands" />
-      <item itemvalue="Python.quantity_boxes" />
-      <item itemvalue="Python.numbers-zad2" />
-      <item itemvalue="Python.tests" />
+      <item itemvalue="Python.class_with_instances_example" />
+      <item itemvalue="Python.classes_comment_zad1" />
+      <item itemvalue="Python.email_zad3" />
+      <item itemvalue="Python.zoo_zad4" />
+      <item itemvalue="Python.comentar_zad1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.numbers-zad2" />
-        <item itemvalue="Python.tests" />
-        <item itemvalue="Python.quantity_boxes" />
-        <item itemvalue="Python.list_lab_useful_commands" />
-        <item itemvalue="Python.greet_username" />
+        <item itemvalue="Python.class_with_instances_example" />
+        <item itemvalue="Python.email_zad3" />
+        <item itemvalue="Python.classes_comment_zad1" />
+        <item itemvalue="Python.comentar_zad1" />
+        <item itemvalue="Python.zoo_zad4" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658756024758</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="continue with Fundamentals_tasks">
+      <created>1659959172570</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1659959172570</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://hub.jetbrains.com/users/cdf28429-fa2b-4824-be11-043e83e47f42">
@@ -574,9 +584,18 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_exam_fundamentals/numbers-zad2.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/Python_fundamentals/instances_example.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/comentar_zad1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/comentar_zad1.py</url>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
