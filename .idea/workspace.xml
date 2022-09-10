@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/class_with_instances_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/classes_comment_zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/decorator~_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/email_zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/instances_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/party_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/zoo_zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/angry_cat_zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Circle_zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/RexEx_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/article_zad7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/catalogue_zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/date_and_time_import_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/dictionary_examples_lekcii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/movie_zad9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/ssstorage_zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/town_zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/weapon_zad2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/.~lock.03. The Angry Cat_Вход.docx#" beforeDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,16 +88,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "/home/dimitarvili/Downloads/VioletaProjects/Python_fundamentals",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/Downloads/VioletaProjects/Python_fundamentals&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="VioletaProjects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="VioletaProjects" />
+      </console-settings>
+    </option>
+    <option name="myUseExistingConsole" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/samples" />
@@ -103,7 +117,70 @@
       <recent name="$PROJECT_DIR$/preparation_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.class_with_instances_example">
+  <component name="RunManager" selected="Python.RexEx_examples">
+    <configuration name="RexEx_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/RexEx_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vehicle_zad8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VioletaProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_with_instances_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionary_examples_lekcii" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/class_with_instances_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/dictionary_examples_lekcii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -146,40 +223,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classes_comment_zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="managment_cafe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/classes_comment_zad1.py" />
-      <option name="PARAMETERS" value="$AffectedModuleNames$$ClipboardContent$$AffectedModuleNames$" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="comentar_zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/comentar_zad1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -188,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="email_zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/email_zad3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo_zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="town_zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,29 +277,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/zoo_zad4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/town_zad4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.class_with_instances_example" />
-      <item itemvalue="Python.classes_comment_zad1" />
-      <item itemvalue="Python.email_zad3" />
-      <item itemvalue="Python.zoo_zad4" />
-      <item itemvalue="Python.comentar_zad1" />
+      <item itemvalue="Python.VioletaProjects" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.RexEx_examples" />
+      <item itemvalue="Python.Vehicle_zad8" />
+      <item itemvalue="Python.dictionary_examples_lekcii" />
+      <item itemvalue="Python.managment_cafe" />
+      <item itemvalue="Python.town_zad4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_with_instances_example" />
-        <item itemvalue="Python.email_zad3" />
-        <item itemvalue="Python.classes_comment_zad1" />
-        <item itemvalue="Python.comentar_zad1" />
-        <item itemvalue="Python.zoo_zad4" />
+        <item itemvalue="Python.RexEx_examples" />
+        <item itemvalue="Python.managment_cafe" />
+        <item itemvalue="Python.dictionary_examples_lekcii" />
+        <item itemvalue="Python.Vehicle_zad8" />
+        <item itemvalue="Python.town_zad4" />
       </list>
     </recent_temporary>
   </component>
@@ -596,6 +654,63 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python_fundamentals/comentar_zad1.py</url>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/ssstorage_zad1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/ssstorage_zad1.py</url>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/weapon_zad2.py</url>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/catalogue_zad3.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/catalogue_zad3.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/Vehicle_zad8.py</url>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/RexEx_examples.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
