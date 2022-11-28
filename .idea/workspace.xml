@@ -5,401 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dimitarvili.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/10.Python-Fundamentals-Basic-Web-Project-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/13.Phonebook-Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/djangoproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/static/phonebook/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/templates/phonebook/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/phonebook/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/djangoproject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/Python OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/01-First-Steps-in-OOP-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and objects/02-Classes-and-Objects-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and objects/02-Classes-and-Objects-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and objects/02-Classes-and-Objects.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exercise: Iterators and Generators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exercise: Iterators and Generators/testgen.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Exercise: Iterators and Generators/testgen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps/01-First-Steps-in-OOP-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps/01-First-Steps-in-OOP.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/weather_forecast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/.~lock.Exam-Preparation.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/Exam-Preparation.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced_Exam_Preparation2/.~lock.Exam-Preparation.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced_Exam_Preparation2/Exam-Preparation.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Error Handling/05-Error-Handling-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Error Handling/05-Error-Handling.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Exam Preparation Advanced/Exam-Preparation (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Exam Preparation Advanced/Exam-Preparation.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/File Handling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/06-File-Handling-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/06-File-Handling.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/FileHandling_exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/FileHandling_exercise/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/demo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/File Handling/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Workshop excercise/08.Workshop-Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Workshop excercise/workshop2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Workshop excercise/workshop_excercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Workshop/07.Workshop-Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/functions advanced/.~lock.04-Functions-Advanced.pptx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/functions advanced/04-Functions-Advanced.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/how_to_remove_bracket_from_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/01-Lists-as-Stacks-and-Queues-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/01-Lists-as-Stacks-and-Queues-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/01-Lists-as-Stacks-and-Queues.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/deque_hot_potato_zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/matching_Parentheses_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/quees_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/queue_supermarket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/queues_water_dispanser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/reverse_stack_zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/lists as stacks/water_dispanser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules excersise/.~lock.09-Modules-Exercise.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules excersise/09-Modules-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/.~lock.09-Modules-Lab.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/09-Modules-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/09-Modules.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/importing_modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/logaritm_zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/modules/pyfiglet_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/new_line_join_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/remove_bracket_from_multiple_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/remove_bracket_list_coordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/.~lock.02-Tuples-and-Sets-Lab.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/.~lock.02-Tuples-and-Sets.pptx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/02-Tuples-and-Sets-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/02-Tuples-and-Sets.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/Count_Same_Valueszad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/tuples and sets/StudentsGrades_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/Python_fundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/09-RegEx-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/09-RegEx-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/09-RegEx-More-Exercises.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/10.Python-Fundamentals-Basic-Web-Project-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/13.Phonebook-Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/git and github/01. Git-and-GitHub-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/git and github/01. Git-and-GitHub.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Christmas Preparation_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Christmas Preparation_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Computer Store_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Counter-Strike_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Integer Operations_Условия.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Invert Values_Условия.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Mining Rig_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Mining Rig_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Oscars ceremony_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Reverse Strings_Условия.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Smallest of Three Numbers_Условия.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Sum of GCP and LCM_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. Sum of GCP and LCM_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/01. The Imitation Game_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02-Data-Types-and-Variables (1).pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02-Data-Types-and-Variables-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Ad Astra_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Beer And Chips_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Beer And Chips_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Deer of Santa_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Deer of Santa_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. HTTP-Basics-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. HTTP-Basics.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02. Shoot for the Win_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/02.PB-Python-Conditional-Statements.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03-Lists-Basics-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03-Lists-Basics-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03-Lists-Basics.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. Cat Life_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. Cat Life_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. Courier Express_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. Moving Target_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. Oscars week in cinema_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/03. The Pianist_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04-Functions-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04-Functions-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04-Functions-More-Exercises (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04-Functions-More-Exercises.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04. Cat Food_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04. Cat Food_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04. Computer Firm_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04. Software-Development-Concepts-Part-1 (1).pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04. Software-Development-Concepts-Part-1.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/04.PB-Python-For-Loop-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05-Lists-Advanced-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05-Lists-Advanced.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05. Christmas Gifts_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05. Christmas Gifts_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05. Hair Salon_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05. Software-Development-Concepts-Part-2.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/05.PB-Python-While-Loop-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06-Objects-and-Classes-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06-Objects-and-Classes-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06-Objects-and-Classes.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06. Gold Mine_Условие - PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06. Gold Mine_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06. Sum And Product_Условие.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06.PB-Python-Nested-Loops-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/06.PB-Python-Nested-Loops.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/09-RegEx.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/9a34f6a7424f.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/ASCII Table - ASCII codes,hex,decimal,binary,html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Exam-Preparation-Sept-2021.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Final-Exam-Preparation-1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Final-Exam-Preparation-2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Mid-Exam-Preparation (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Mid-Exam-Preparation.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/Presentation-Part1-Fundamentals-And-Essentials.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/account_balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/ascii_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/automatizaciq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/building.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/chetiri_chisla_chetiri_cicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/copy_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/delenie_s_ostatak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/deposit_calcultor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/digital_clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/digital_clock2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/food_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/greet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/inches_to_centimeters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/kostenur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/liter_to_santim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/nested_for_special_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/number_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/ocenki_v_uchilishte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/pattern_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/pd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/pet_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/products.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/quantity_boxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/radians_to_degree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/repainting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/requests" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/sabira4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/sum_of_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/sumi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/usd_to_bgn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/web-scrapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/webscrap2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/while_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUni_Basic_Python/yard_greeening.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestingProjects" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheFruitsS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Final-Exam-Preparation-1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Final-Exam-Preparation-2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/emoji_detector_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/zad1_password_reset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_path" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/Mid-Exam-Preparation.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/python fundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/00. Python-Fundamentals-Course-Introduction.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/00. SoftUni and Partners.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/01. Git-and-GitHub-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/01. Git-and-GitHub.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/02-Data-Types-and-Variables-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/02-Data-Types-and-Variables.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/02. HTTP-Basics-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/02. HTTP-Basics.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/03-Lists-Basics-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/03-Lists-Basics.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/09-RegEx-More-Exercises.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/10.Phonebook-Skeleton.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/src/main/java/phonebook/PhonebookApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/src/main/resources/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python fundamentals/phonebook/src/test/java/phonebook/PhonebookApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonweb/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VioletaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VioletaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Christmas Preparation_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Christmas Preparation_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Computer Store_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Counter-Strike_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Integer Operations_Условия.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Invert Values_Условия.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Mining Rig_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Mining Rig_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Oscars ceremony_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Reverse Strings_Условия.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Smallest of Three Numbers_Условия.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Sum of GCP and LCM_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Sum of GCP and LCM_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. The Imitation Game_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Data-Types-and-Variables (1).pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Data-Types-and-Variables-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Ad Astra_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Beer And Chips_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Beer And Chips_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Deer of Santa_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Deer of Santa_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. HTTP-Basics-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. HTTP-Basics.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Shoot for the Win_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.PB-Python-Conditional-Statements.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Lists-Basics-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Lists-Basics-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Lists-Basics.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Cat Life_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Cat Life_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Courier Express_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Moving Target_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Oscars week in cinema_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. The Pianist_Problem Description.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Functions-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Functions-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Functions-More-Exercises (1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Functions-More-Exercises.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Cat Food_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Cat Food_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Computer Firm_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Software-Development-Concepts-Part-1 (1).pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Software-Development-Concepts-Part-1.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.PB-Python-For-Loop-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lists-Advanced-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Lists-Advanced.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Christmas Gifts_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Christmas Gifts_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Hair Salon_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Software-Development-Concepts-Part-2.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.PB-Python-While-Loop-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Objects-and-Classes-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Objects-and-Classes-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Objects-and-Classes.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Gold Mine_Условие - PDF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Gold Mine_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Sum And Product_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.PB-Python-Nested-Loops-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.PB-Python-Nested-Loops.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-RegEx.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9a34f6a7424f.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASCII Table - ASCII codes,hex,decimal,binary,html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam-Preparation-Sept-2021.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Exam-Preparation-1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Exam-Preparation-2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid-Exam-Preparation (1).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid-Exam-Preparation.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation-Part1-Fundamentals-And-Essentials.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/01. Git-and-GitHub-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/01. Git-and-GitHub.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account_balance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ascii_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automatizaciq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/building.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chetiri_chisla_chetiri_cicle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/copy_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delenie_s_ostatak.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deposit_calcultor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digital_clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digital_clock2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/christmas.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/christmas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/computer_firm.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/computer_firm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/courier_express.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/courier_express.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/elen.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/elen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/while_5zad_barbara_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/while_5zad_barbara_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/zad6_suma_proizvedenie.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/zad6_suma_proizvedenie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food_delivery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inches_to_centimeters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kostenur.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liter_to_santim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_exam_fundamentals/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiplication_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_for_special_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocenki_v_uchilishte.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/password.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet_shop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantity_boxes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/radians_to_degree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangle_area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repainting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sabira4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum_of_two_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usd_to_bgn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-scrapping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webscrap2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/while_example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yard_greeening.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/emoji_detector_zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/emoji_detector_zad2.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -520,7 +127,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
+  <component name="RunManager" selected="Python.emoji_detector_zad2">
     <configuration name="VioletaProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -555,6 +162,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emoji_detector_zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/emoji_detector_zad2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -626,27 +254,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove_bracket_list_coordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanced/remove_bracket_list_coordinates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -692,19 +299,19 @@
     <list>
       <item itemvalue="Python.VioletaProjects" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.emoji_detector_zad2" />
       <item itemvalue="Python.kostenurka" />
       <item itemvalue="Python.new_line_join_list" />
       <item itemvalue="Python.password_generator" />
-      <item itemvalue="Python.remove_bracket_list_coordinates" />
       <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.emoji_detector_zad2" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.new_line_join_list" />
         <item itemvalue="Python.password_generator" />
         <item itemvalue="Python.kostenurka" />
-        <item itemvalue="Python.remove_bracket_list_coordinates" />
       </list>
     </recent_temporary>
   </component>
@@ -952,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662818964584</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="continue with Fundamentals_tasks">
+      <created>1669632255463</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669632255464</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <option name="createBranch" value="false" />
     <servers>
       <GitHub url="https://github.com" />
@@ -1200,6 +814,11 @@
           <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/zad1_password_reset.py</url>
           <line>24</line>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_fundamentals/zoo_zad4.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
