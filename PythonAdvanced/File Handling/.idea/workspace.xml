@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b97e983-ee49-4eac-9987-cb6096dbcbeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/File Handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-File-Handling-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-File-Handling.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/FileHandling_exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling_exercise/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions advanced/04-Functions-Advanced.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/01-Lists-as-Stacks-and-Queues-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/01-Lists-as-Stacks-and-Queues-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/01-Lists-as-Stacks-and-Queues.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/deque_hot_potato_zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/matching_Parentheses_zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/quees_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/queue_supermarket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/queues_water_dispanser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/reverse_stack_zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lists as stacks/water_dispanser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/.~lock.02-Tuples-and-Sets-Lab.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/.~lock.02-Tuples-and-Sets.pptx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/02-Tuples-and-Sets-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/02-Tuples-and-Sets.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/Count_Same_Valueszad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tuples and sets/StudentsGrades_zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/09-RegEx-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/09-RegEx-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/09-RegEx-More-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/10.Python-Fundamentals-Basic-Web-Project-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/13.Phonebook-Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/git and github/01. Git-and-GitHub-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_fundamentals/git and github/01. Git-and-GitHub.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam/Final_exam_fundamentals/Final-Exam-Preparation-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam/Final_exam_fundamentals/Final-Exam-Preparation-2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam/Final_exam_fundamentals/zad1_password_reset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mid_exam_fundamentals/Mid-Exam-Preparation.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/VioletaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/VioletaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_fundamentals/01. Git-and-GitHub-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_fundamentals/01. Git-and-GitHub.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/christmas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/christmas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/computer_firm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/computer_firm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/courier_express.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/courier_express.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/elen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/elen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/while_5zad_barbara_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/while_5zad_barbara_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/zad6_suma_proizvedenie.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/exam_official/zad6_suma_proizvedenie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mid_exam_fundamentals/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mid_exam_fundamentals/tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Fi0ANlRfAjGkTgH4NF2Y80wGIU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b97e983-ee49-4eac-9987-cb6096dbcbeb" name="Changes" comment="" />
+      <created>1664959452540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664959452540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
