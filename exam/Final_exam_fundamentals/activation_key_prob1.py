@@ -18,6 +18,10 @@ while True:
 
         pattern_num_for_slice = r"\d+"
         start_end = re.findall(pattern_num_for_slice, command)
-        #print(start_end)list
-
+        start_end = list(map(int, start_end))
+        print(start_end)
+        first_slice = activation_key[:start_end[0]]
+        second_slice = activation_key[start_end[1]:]
+        activation_key = first_slice + second_slice
+        print(activation_key)
 
