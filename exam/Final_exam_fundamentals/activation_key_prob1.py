@@ -18,6 +18,9 @@ while True:
     pattern_lower = r"Lower"
     flip_command_lower = re.search(pattern_lower, command)
 
+    pattern_contains = r"Contains"
+    contains_command = re.match(pattern_contains, command)
+
     if command == 'Generate':
         print(f"Your activation key is: {activation_key}")
         break
@@ -56,12 +59,10 @@ while True:
         activation_key = first_slice + upper_text + second_slice
         print(activation_key)
 
-    if command == 'Contains':
-        pattern_contains = r"Contains"
-        command_contains = re.match(pattern_contains, command)
-        substring = command[11:]
-        contains_command = re.search(substring, activation_key).group()
+    if contains_command:
+        substring_pattern = command[11:]
+        contains_command = re.search(substring_pattern, activation_key).group()
         if contains_command in activation_key:
-            print(f'{activation_key} contains {substring}.')
+            print(f'{activation_key} contains {substring_pattern}.')
         else:
             print('Substring not found!')
