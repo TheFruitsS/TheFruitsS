@@ -65,7 +65,9 @@ while True:
     try:
         pattern_contains = r"Contains"
         command_contains = re.match(pattern_contains, command)
-
+        substring = command[11:]
+        print(substring)
 
     except:
+
         print('Substring not found!')
