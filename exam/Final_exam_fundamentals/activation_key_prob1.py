@@ -1,9 +1,3 @@
-#input -letters and numbers only
-#receiving strings until command 'Generate' break
-# commands
-# "Contains>>>{substring}" ,
-# "Flip>>>Upper/Lower>>>{startIndex}>>>{endIndex}"
-#Slice>>>{startIndex}>>>{endIndex}"
 import re
 activation_key = input()
 while True:
@@ -61,8 +55,10 @@ while True:
 
     if contains_command:
         substring_pattern = command[11:]
-        contains_command = re.search(substring_pattern, activation_key).group()
-        if contains_command in activation_key:
+        if substring_pattern in activation_key:
             print(f'{activation_key} contains {substring_pattern}.')
         else:
             print('Substring not found!')
+
+
+
