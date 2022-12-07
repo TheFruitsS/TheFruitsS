@@ -37,6 +37,9 @@ values ('Guy','Gilbert',15,4.5),
 ( 'John','Stones',16,4.25), ('Nicole','Nelson',17,5.50)]]></console>
     </connection>
   </component>
+  <component name="DBNavigator.Project.DatabaseEditorStateManager">
+    <last-used-providers />
+  </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>

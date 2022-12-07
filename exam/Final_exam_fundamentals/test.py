@@ -1,9 +1,5 @@
-import re
-command = input()
-pattern_slice = r"\d+"
-slice_command = re.findall(pattern_slice, command)
+txt = "I like bananas"
 
-print(slice_command)
-activation_key = input()
-for res in activation_key:
-   pass
+x = txt.replace("bananas", "apples")
+
+print(type(x))
