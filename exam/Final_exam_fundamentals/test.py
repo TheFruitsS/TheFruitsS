@@ -1,5 +1,5 @@
-txt = "I like bananas"
+import re
 
-x = txt.replace("bananas", "apples")
-
-print(type(x))
+txt = "The rain in Spain"
+x = re.split("\s", txt)
+print(x)
