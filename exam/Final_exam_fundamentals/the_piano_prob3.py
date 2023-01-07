@@ -1,9 +1,9 @@
 def pianist_dict():
     cycle = int(input())
-    songsdict = {}
+
     songli = []
 
-    #songs_dict = {piece: [com, key] for piece, com, key in song}
+
 
     for songs in range(cycle):
         song = input().split("|")
