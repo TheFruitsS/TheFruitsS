@@ -15,16 +15,17 @@ def destination_map():
     data = input()
     pattern = r'\=[A-Z][a-z]{2,}\=|\=[A-Z][a-z]{2,}\s[A-Za-z]+\=|\/[A-Z][a-z]{2,}\/|\/[A-Z][a-z]{2,}\s[A-Za-z]+\/'
     matches = re.findall(pattern, data)
-
+    result = ''
+    lenght = 0
     if matches:
 
         txtli = [((x.replace('=', ',').replace('/', ','))[1:-1]).split(',')
                  for x in matches]
 
         list_of_lists(txtli)
-    else:
-        print(f"Destinations:")
-        print(f'Travel Points: 0')
 
+    else:
+        print(f"Destinations: {result}")
+        print(f"Travel Points: {lenght}")
 
 destination_map()
