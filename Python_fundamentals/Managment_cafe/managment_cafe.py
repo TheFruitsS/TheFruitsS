@@ -244,12 +244,13 @@ class cafe_management():
         self.style1.place(x=0, y=50)
         self.style2 = Label(self.root, bg="#248aa2", height=1, width=30)
         self.style2.place(x=380, y=50)
-        self.date = Label(self.root, text=strftime("%Y-%m-%d %H:%M:%S", localtime()), font=('verdana', 10, 'bold'), bg="white")
+        self.date = Label(self.root, text=strftime("%Y-%m- %d %H:%M:%S", localtime()), font=('verdana', 10, 'bold'), bg="white")
         self.date.place(x=170, y=50)
 
         self.cafe_icon = ImageTk.PhotoImage(Image.open('cafe.png'))
-        self.logo = Label(self.root, image=self.cafe_icon, bg="white")
-        self.logo.place(x=220, y=70)
+        self.logo = Label(self.root, image=self.cafe_icon, bg="#248aa2")
+
+        self.logo.place(x=0, y=0)
 
         # ================== Items ===================
         self.frame1 = LabelFrame(self.root, text="Cafe Items", width=150, height=200, font=('verdana', 10, 'bold'),
@@ -395,12 +396,11 @@ class cafe_management():
 
         self.Clear_btn = Button(self.root, text="Clear", relief=RAISED, borderwidth=2, font=('verdana', 10, 'bold'),
                                 bg='#248aa2', fg="white", command=self.Clear)
-        self.Clear_btn.place(x=410, y=245)
+        self.Clear_btn.place(x=430, y=245)
 
-        self.icon = ImageTk.PhotoImage(Image.open('false.png'))
-        self.Quit_btn = Button(self.root, image=self.icon, relief=RAISED, borderwidth=2, font=('verdana', 10, 'bold'),
+        self.Quit_btn = Button(self.root, relief=RAISED, borderwidth=2, font=('verdana', 10, 'bold'),
                                bg='#248aa2', fg="white", padx=5, command=self.Quit)
-        self.Quit_btn.place(x=463, y=245)
+
 
         self.root.mainloop()
 

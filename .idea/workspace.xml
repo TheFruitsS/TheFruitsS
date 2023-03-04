@@ -4,18 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59bfc796-9336-4b8e-8b62-1440702bcb72" name="Changes" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Dictionaries/07-Dictionaries-Exercise (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Dictionaries/07-Dictionaries-Lab (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Dictionaries/07-Dictionaries-More-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Dictionaries/07-Dictionaries.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/.~lock.Final-Exam-Preparation-1.docx#" afterDir="false" />
+    <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/cafe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/collaborators.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/managment_cafe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/resizing_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/.idea/Databases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/course_jOB/palindrome_safe_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad3_var2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/VioletaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VioletaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/add_astrounaut.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/add_astrounaut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_fundamentals/Regex/.~lock.09-RegEx-Exercise.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/.~lock.02. Registration_Вход (1).docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/exam_official/courier_express.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/exam_official/while_5zad_barbara_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/while_5zad_barbara_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/exam_official/zad6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/zad6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparation_exam/for_in_range_movie_rating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparation_exam/zad5_movie_rating.py" beforeDir="false" afterPath="$PROJECT_DIR$/preparation_exam/movie_rating.py" afterDir="false" />
     </list>
+    <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +66,6 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
     <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -67,10 +92,14 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-1122881879/builtins.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/.local/lib/python3.9/site-packages/ryanair/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/.local/lib/python3.9/site-packages/ryanair/ryanair.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/Definition_list_and_tuple.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/defimition_sets_and_dictionary.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Python_fundamentals/larger_number.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/builtins.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/lib/python3.9/site-packages/pyfacebook/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/lib/python3.9/site-packages/pyfacebook/api/graph.py" root0="SKIP_INSPECTION" />
     <setting file="file:///usr/lib/python3.9/re.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="LogFilters">
@@ -94,19 +123,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowServices.ShowToolbar": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "/home/dimi/PycharmProjects/Final_exam_fundamentals/TheFruitsS/Python_fundamentals/Dictionaries",
-    "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
-    "settings.editor.splitter.proportion": "0.26824644"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowServices.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/udemi_ML&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews.python.type.renderers&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26824644&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="VioletaProjects" is-module-sdk="true">
@@ -118,13 +147,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python_fundamentals/Dictionaries" />
       <recent name="$PROJECT_DIR$/samples" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python_fundamentals" />
       <recent name="$PROJECT_DIR$/exam/exam_official" />
+      <recent name="$PROJECT_DIR$/Python_fundamentals" />
       <recent name="$PROJECT_DIR$/preparation_exam" />
     </key>
   </component>
@@ -137,7 +165,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.add_astrounaut">
+  <component name="RunManager" selected="Python.app">
     <configuration name="VioletaProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add_astrounaut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/add_astrounaut.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonweb/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="managment_cafe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,70 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/Final_exam_fundamentals/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,22 +271,85 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.VioletaProjects" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.add_astrounaut" />
-      <item itemvalue="Python.prob1" />
-      <item itemvalue="Python.prob2" />
-      <item itemvalue="Python.prob3" />
-      <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.managment_cafe" />
+      <item itemvalue="Python.zad3" />
+      <item itemvalue="Python.zad5" />
+      <item itemvalue="Python.zad6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.add_astrounaut" />
-        <item itemvalue="Python.prob2" />
-        <item itemvalue="Python.prob3" />
-        <item itemvalue="Python.prob1" />
-        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.managment_cafe" />
+        <item itemvalue="Python.zad3" />
+        <item itemvalue="Python.zad6" />
+        <item itemvalue="Python.zad5" />
       </list>
     </recent_temporary>
   </component>
@@ -330,41 +358,12 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
-    <task id="Default" summary="Default task">
+    <task active="true" id="Default" summary="Default task">
       <changelist id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="" />
       <created>1646224888244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653906985825</updated>
-    </task>
-    <task active="true" id="LOCAL-00002" summary="PythonTasks">
-      <changelist id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="" />
-      <created>1653906957836</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1653906985825</updated>
-    </task>
-    <task id="LOCAL-00003" summary="PythonTasks">
-      <created>1654598821674</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1654598821674</updated>
-    </task>
-    <task id="LOCAL-00004" summary="PythonTasks">
-      <created>1654599853029</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1654599853029</updated>
-    </task>
-    <task id="LOCAL-00005" summary="PythonTasks">
-      <created>1654607104885</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1654607104886</updated>
     </task>
     <task id="LOCAL-00006" summary="mport Turtle3D&#10;nBasic&#10;import math&#10;&#10;n = Turtle3D.Turtle()&#10;n.color('silver">
       <created>1654959838035</created>
@@ -654,13 +653,62 @@
       <updated>1670537328176</updated>
     </task>
     <task id="LOCAL-00047" summary="continue with Fundamentals_tasks">
-      <created>1670976823046</created>
+      <created>1673002707523</created>
       <option name="number" value="00047" />
       <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1670976823046</updated>
+      <updated>1673002707523</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="continue with Fundamentals_tasks">
+      <created>1673030660736</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1673030660736</updated>
+    </task>
+    <task id="LOCAL-00049" summary="continue with Fundamentals_tasks">
+      <created>1673098721407</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1673098721407</updated>
+    </task>
+    <task id="LOCAL-00050" summary="continue with Fundamentals_tasks">
+      <created>1673106179949</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1673106179949</updated>
+    </task>
+    <task id="LOCAL-00051" summary="continue with Fundamentals_tasks">
+      <created>1673107166101</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1673107166101</updated>
+    </task>
+    <task id="LOCAL-00052" summary="continue with Fundamentals_tasks">
+      <created>1676739507072</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1676739507073</updated>
+    </task>
+    <task id="LOCAL-00053" summary="continue with Fundamentals_tasks">
+      <created>1676752124877</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1676752124877</updated>
+    </task>
+    <task id="LOCAL-00054" summary="continue with Fundamentals_tasks">
+      <created>1676807679440</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1676807679440</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <option name="createBranch" value="false" />
     <servers>
       <GitHub url="https://github.com" />
@@ -982,7 +1030,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py</url>
-          <line>3</line>
+          <line>4</line>
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -991,14 +1039,79 @@
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="161" />
+          <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/Problem_2_Destination_Mapper.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/prob2.py</url>
+          <url>file://$PROJECT_DIR$/exam/Final_exam_fundamentals/Problem_2_Destination_Mapper.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad2_party.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad3_courier_express.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad4_Exam.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad4_Exam.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad4_Exam.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad4_Exam.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad1.py</url>
           <line>7</line>
-          <option name="timeStamp" value="163" />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad6.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad6.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad6.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam/exam_official/zad6.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="224" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

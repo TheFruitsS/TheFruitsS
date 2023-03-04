@@ -1,38 +1,47 @@
-target = float(input())
+
+target = int(input())
 product_price = 0
-budget_condition = False
-needed_money = 0
-profit = int()
+
+
 while True:
 
     name_of_service = input()
-    if name_of_service == 'closed':
-        print(f'Target not reached! You need {needed_money:.2f}lv. more.\nEarned money:{profit:.2f} leva!')
+
+    if 1 < target <= 5000:
+        pass
+    profit = product_price
+    if profit >= target:
+        print(f'You have reached your target for the day!\nEarned money: {profit}lv. ')
         break
-    vid = input()
+
+    if name_of_service == 'closed':
+        if profit < target:
+            needed_money = target - profit
+            print(f'Target not reached! You need {needed_money:.2f}lv. more.\nEarned money: {profit}lv!')
+            break
+        if profit > target:
+            print(f'You have reached your target for the day!\nEarned money: {profit}lv. ')
+            break
 
     if name_of_service == 'haircut':
-        if vid == 'mens':
-            product_price = 15
-        if vid == 'ladies':
-            product_price = 20
-        if vid == 'kids':
-            product_price = 10
+        pass
+
+    if name_of_service == 'mens':
+        product_price += 15
+    if name_of_service == 'ladies':
+        product_price += 20
+    if name_of_service == 'kids':
+        product_price += 10
     if name_of_service == 'color':
-        if vid == 'touch up':
-            product_price = 20
-        if vid == 'full color':
-            product_price = 30
-    profit += product_price
-    needed_money = target - profit
+        pass
+    if name_of_service == 'touch up':
+        product_price += 20
+    if name_of_service == 'full':
+        product_price += 30
 
-    if profit >= target:
-        print(f'You have reached your target for the day!\nEarned money  {profit:.2f} leva. ')
-        break
 
-if profit <= target:
-    budget_condition = True
 
-if not budget_condition:
-    print(f'Target not reached! You need {needed_money:.2f}lv. more.\nEarned money:{profit:.2f} leva!')
-# kogato iskame da sabere vsi4ko ot cikala go izkarvame izvan usloviqta no v cikala
+
+
+
+
