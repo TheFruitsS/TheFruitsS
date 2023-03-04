@@ -6,7 +6,7 @@ from  filling_data import scrape
 mydb = mysql.connector.connect(
   host="localhost",
   user='root',
-  password='divi1234567',
+  password='',
   database='names_and_adress'
 )
 
