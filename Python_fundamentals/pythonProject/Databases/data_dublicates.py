@@ -10,7 +10,7 @@ engine = create_engine('mysql+mysqlconnector://root:password@localhost:3306/name
 
 
 def clean_data():
-
+    """cleaning the data from duplicates and replacing the old data with the cleaned data"""
     connection = engine.connect()
 
 
