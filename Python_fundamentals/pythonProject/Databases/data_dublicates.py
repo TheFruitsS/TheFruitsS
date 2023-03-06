@@ -1,20 +1,31 @@
+
+
+
 import pandas as pd
-import mysql.connector
-from main import mydb
-# Read sqlite query results into a pandas DataFrame
+
+
+from sqlalchemy import create_engine
+
+engine = create_engine('mysql+mysqlconnector://root:password@localhost:3306/names_and_adress')
+
+
 def clean_data():
 
-    con = mydb
+    connection = engine.connect()
 
 
-    df = pd.read_sql_query("SELECT * FROM names_and_adress.customers ORDER BY name;", con)
+    df = pd.read_sql_query("SELECT * FROM customers_test ORDER BY name;", connection)
+    print(df)
     #order database Frame by name
-    df = df.drop_duplicates(subset=["name", "address"], keep='first')
-    #clean the database by some column names
+    #clean = df.drop_duplicates(subset=["name", "address"], keep='first')
 
-    mydb.commit()
-    con.close()
-    return  print(df)
+
+    #clean1 = clean.to_sql('customers_test',connection ,if_exists='replace')
+
+
+
+    return
+
 
 
 clean_data()

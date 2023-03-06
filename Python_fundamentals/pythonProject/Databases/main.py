@@ -1,34 +1,34 @@
 import mysql.connector
-from  filling_data import scrape
 
 
 
-mydb = mysql.connector.connect(
-  host="localhost",
-  user='root',
-  password='',
-  database='names_and_adress'
-)
+
+# mydb = mysql.connector.connect(
+#   host="localhost",
+#   user='root',
+#   password='password',
+#   database='names_and_adress'
+# )
 
 
-print(mydb)
+
 
 # mycursor = mydb.cursor()
-#
+#sql = 'SELECT * FROM CUSTOMERS ORDER BY name;'
 # #"SELECT * FROM softuni.students;"
 # #'UPDATE last_name SET last_name = Christian WHERE last_name = Char;'
 # sql = "UPDATE students SET last_name = 'Christian' WHERE last_name = 'Char';"
 # mycursor.execute(sql)
 # mydb.commit()
 # mycursor = mydb.cursor()
-#
+# sql = 'DROP TABLE names_and_adress.CUSTOMERS;'
 # mycursor.execute("SHOW DATABASES")
 #
 # for x in mycursor:
 #   print(x)
 
-mycursor = mydb.cursor()
-sql = 'SELECT * FROM names_and_adress.customers'
+#mycursor = mydb.cursor()
+#sql = 'SELECT * FROM names_and_adress.customers'
 #sql = "ALTER TABLE customers ADD COLUMN id INT AUTO_INCREMENT PRIMARY KEY"
 #sql = "CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255))" creates new table
 #sql ="INSERT INTO customers (name) VALUES (%s)"
@@ -48,9 +48,9 @@ sql = 'SELECT * FROM names_and_adress.customers'
 # sql = "DELETE FROM customers WHERE address = %s"
 # adr = ('"Yellow Garden 2", ')
 
-#mycursor.execute(sql, adr)
-
-#mydb.commit()
+# mycursor.execute(sql)
+#
+# mydb.commit()
 
 #print(mycursor.rowcount, "record(s) deleted")
 #mycursor.execute(sql)
@@ -61,12 +61,12 @@ sql = 'SELECT * FROM names_and_adress.customers'
 #mycursor.execute(sql, val)
 #mydb.commit()
 #print("1 record inserted, ID:", mycursor.lastrowid)
-mycursor.execute(sql)
-myresult = mycursor.fetchall()
-
-
-for x in myresult:
-  print(x)
+# mycursor.execute(sql)
+# myresult = mycursor.fetchall()
+#
+#
+# for x in myresult:
+#   print(x)
 
 
 # mycursor = mydb.cursor()
