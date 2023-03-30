@@ -5,41 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/cafe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/collaborators.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/managment_cafe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/Managment_cafe/resizing_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/.idea/Databases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_fundamentals/pythonProject/Databases/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/course_jOB/palindrome_safe_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad3_var2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/exam_official/zad5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VioletaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VioletaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/interpolations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reply_to_email/pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reply_to_email/txt_pattern.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_predmets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/course_predmets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/regex_course.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/Regex/.~lock.09-RegEx-Exercise.docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/Fundamentals_exam_december/.~lock.02. Registration_Вход (1).docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/Final_exam_fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/Final_exam_fundamentals/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/exam_official/courier_express.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/exam_official/while_5zad_barbara_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/while_5zad_barbara_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/exam_official/zad6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/exam_official/zad6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preparation_exam/for_in_range_movie_rating.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/preparation_exam/zad5_movie_rating.py" beforeDir="false" afterPath="$PROJECT_DIR$/preparation_exam/movie_rating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_climb_the_peaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_climb_the_peaks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonAdvanced/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanced/test.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +57,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="main" />
-      </list>
-    </option>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -131,7 +106,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowServices.ShowToolbar&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/udemi_ML&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dimitarvili/Downloads/VioletaProjects&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews.python.type.renderers&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.26824644&quot;
   }
@@ -151,6 +126,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mid_exam_fundamentals" />
       <recent name="$PROJECT_DIR$/exam/exam_official" />
       <recent name="$PROJECT_DIR$/Python_fundamentals" />
       <recent name="$PROJECT_DIR$/preparation_exam" />
@@ -165,7 +141,28 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.zad2">
+    <configuration name="1d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/1d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="VioletaProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="interpolations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,28 +217,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonweb/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="managment_cafe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_fundamentals/managment_cafe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/interpolations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +259,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad1_Energy_drinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,7 +301,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/exam_official/zad6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +313,19 @@
     <list>
       <item itemvalue="Python.VioletaProjects" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.managment_cafe" />
-      <item itemvalue="Python.zad3" />
-      <item itemvalue="Python.zad5" />
-      <item itemvalue="Python.zad6" />
+      <item itemvalue="Python.1d" />
+      <item itemvalue="Python.interpolations" />
+      <item itemvalue="Python.zad1" />
+      <item itemvalue="Python.zad2" />
+      <item itemvalue="Python.zad1_Energy_drinks" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.managment_cafe" />
-        <item itemvalue="Python.zad3" />
-        <item itemvalue="Python.zad6" />
-        <item itemvalue="Python.zad5" />
+        <item itemvalue="Python.zad2" />
+        <item itemvalue="Python.zad1" />
+        <item itemvalue="Python.1d" />
+        <item itemvalue="Python.interpolations" />
+        <item itemvalue="Python.zad1_Energy_drinks" />
       </list>
     </recent_temporary>
   </component>
@@ -364,13 +340,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653906985825</updated>
-    </task>
-    <task id="LOCAL-00006" summary="mport Turtle3D&#10;nBasic&#10;import math&#10;&#10;n = Turtle3D.Turtle()&#10;n.color('silver">
-      <created>1654959838035</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1654959838035</updated>
     </task>
     <task id="LOCAL-00007" summary="continue with Fundamentals_tasks">
       <created>1655149650026</created>
@@ -708,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676807679440</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="continue with Fundamentals_tasks">
+      <created>1679866101399</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1679866101400</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <option name="createBranch" value="false" />
     <servers>
       <GitHub url="https://github.com" />
@@ -1112,6 +1088,21 @@
           <url>file://$PROJECT_DIR$/exam/exam_official/zad6.py</url>
           <line>14</line>
           <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="232" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
