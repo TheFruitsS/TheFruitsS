@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a1b52f-b531-4794-b481-3b3cd7fe0bcd" name="PythonTasks" comment="continue with Fundamentals_tasks">
-      <change afterPath="$PROJECT_DIR$/Interpolation/1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interpolation/interpolations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interpolation/zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interpolation/zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interpolation/zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reply_to_email/pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reply_to_email/txt_pattern.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_predmets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/course_predmets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid_exam_fundamentals/regex_course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/79e8b56b-2a85-4506-b237-807f485321b1 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interpolation/zad6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Web Project Phonebook/djangoproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_climb_the_peaks.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_climb_the_peaks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAdvanced/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAdvanced/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interpolation/interpolations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interpolation/interpolations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interpolation/zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interpolation/zad3.py" afterDir="false" />
     </list>
     <list id="f69ff12f-0fc6-43ca-868e-3c07a98458f1" name="Changes" comment="updated head" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +116,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Interpolation" />
       <recent name="$PROJECT_DIR$/mid_exam_fundamentals" />
       <recent name="$PROJECT_DIR$/exam/exam_official" />
       <recent name="$PROJECT_DIR$/Python_fundamentals" />
@@ -141,28 +132,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zad2">
-    <configuration name="1d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/1d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.zad5">
     <configuration name="VioletaProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,48 +217,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad1_Energy_drinks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="VioletaProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAdvanced/Advanced Exam_preparation/zad1_Energy_drinks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VioletaProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,22 +238,85 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VioletaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interpolation/zad5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.VioletaProjects" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.1d" />
       <item itemvalue="Python.interpolations" />
-      <item itemvalue="Python.zad1" />
       <item itemvalue="Python.zad2" />
-      <item itemvalue="Python.zad1_Energy_drinks" />
+      <item itemvalue="Python.zad3" />
+      <item itemvalue="Python.zad4" />
+      <item itemvalue="Python.zad5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zad2" />
-        <item itemvalue="Python.zad1" />
-        <item itemvalue="Python.1d" />
+        <item itemvalue="Python.zad5" />
+        <item itemvalue="Python.zad4" />
         <item itemvalue="Python.interpolations" />
-        <item itemvalue="Python.zad1_Energy_drinks" />
+        <item itemvalue="Python.zad3" />
+        <item itemvalue="Python.zad2" />
       </list>
     </recent_temporary>
   </component>
@@ -340,20 +331,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653906985825</updated>
-    </task>
-    <task id="LOCAL-00007" summary="continue with Fundamentals_tasks">
-      <created>1655149650026</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1655149650027</updated>
-    </task>
-    <task id="LOCAL-00008" summary="continue with Fundamentals_tasks">
-      <created>1655495105247</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1655495105247</updated>
     </task>
     <task id="LOCAL-00009" summary="continue with Fundamentals_tasks">
       <created>1655728295128</created>
@@ -684,7 +661,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679866101400</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="continue with Fundamentals_tasks">
+      <created>1680193314108</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1680193314109</updated>
+    </task>
+    <task id="LOCAL-00057" summary="continue with Fundamentals_tasks">
+      <created>1680196387997</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1680196387997</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <option name="createBranch" value="false" />
     <servers>
       <GitHub url="https://github.com" />
