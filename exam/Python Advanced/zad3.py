@@ -19,12 +19,12 @@ def movie_organizer(*movie_tuple):
     for x in result1.values():
         counts.append(x)
     result = {movie: [genres.count(movie), movie_dict.keys()] for movie in genres}
+    for x,y in sorted(result1.items()):
+        print(f'{x} - {y}')
+        for movie in sorted(movie_dict.keys()):
+            print(movie)
 
-    return returning_string(result1)
 
-def returning_string(some_dict):
-    for x,y in some_dict.items():
-        print(x,y)
 
 
 
